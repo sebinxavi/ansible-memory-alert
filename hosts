@@ -1,0 +1,4 @@
+[centos]
+13.235.77.4  ansible_user=centos ansible_port=22 ansible_ssh_private_key_file=centos.pem
+13.127.211.59   ansible_user=centos ansible_port=22 ansible_ssh_private_key_file=centos.pem
+
