@@ -80,4 +80,4 @@ $ ansible-playbook -i hosts memory.yml
 ```
 
 ## Results:
-You will receive an Ansible Email notification if MEMORY usage more than 90%.
+You will receive an Ansible Email notification if MEMORY usage exceeds more than 90%.
