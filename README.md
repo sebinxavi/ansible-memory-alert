@@ -1,6 +1,6 @@
 # Ansible Playbook for High Memory Notification alerts
 
-This Ansible Playbook will helps you to Monior and enable notifications for High Memory alert via Email
+This Ansible Playbook will helps you to Monitor and enable notifications for High Memory alert via Email.
 
 ## Features of Terraform
 
