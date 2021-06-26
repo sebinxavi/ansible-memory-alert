@@ -2,17 +2,6 @@
 
 This Ansible Playbook will helps you to Monitor and enable notifications for High Memory alert via Email.
 
-## Features of Terraform
-
-- Infrastructure Provisioning
-- Configuration Management
-- IT automation
-- Continuous deployment
-- Application Development
-- Network Automation
-- Security Automation
-- Infrastructure Orchestration 
-
 ## Prerequisites
 - Ansible version - 2.9
 - Linux Master Server 
@@ -81,3 +70,9 @@ $ ansible-playbook -i hosts memory.yml
 
 ## Results:
 You will receive an Ansible Email notification if MEMORY usage exceeds more than 90%.
+
+## Author
+Created by [@sebinxavi](https://www.linkedin.com/in/sebinxavi/) - feel free to contact me and advise as necessary!
+
+<a href="mailto:sebin.xavi1@gmail.com"><img src="https://img.shields.io/badge/-sebin.xavi1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sebinxavi"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
